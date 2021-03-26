@@ -1,4 +1,4 @@
-- 👋 Hola, soy Iván Bustos
+- 👋 Hola, me llamo Iván
 - 👀 Soy un apasionado de la tecnología, el desarrollo de aplicaciones, la robótica y la inteligencia artificial
 - 🌱 Actualmente, estoy aprendiendo JavaScript y todas las tecnologías relacionadas a este apasionante lenguaje de programación
 - 📫 Puedes contactarme a mi correo mr.ibustos.ca@icloud.com
