@@ -1,8 +1,7 @@
 - 👋  Bienvenido a mi perfil en GitHub!
-- 👀  Soy un apasionado de la tecnología, el desarrollo de aplicaciones, la robótica y la inteligencia artificial
-- 🌱  Actualmente, estoy desarrollando en Vue.js y otras tecnologías relacionadas a este apasionante lenguaje de programación
+- 👀  Soy un apasionado de la tecnología y sobre todo del desarrollo de aplicaciones
+- 🌱  Actualmente, estoy desarrollando en Vue.js y otras tecnologías relacionadas a JavaScript
 - 📫  Puedes contactarme a mi correo mr.ibustos.ca@icloud.com
-- 🚀  Aún me queda mucho por subir aquí.
 
 <!---
 ibustosca/ibustosca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
